@@ -19,7 +19,9 @@ private static void case2() {
 	  it will only give methods which are present in parent class.  
 	 */
 	man.eat();
-//	man.read(); // .read() is from Child class(Boy) therefore  it will give error
+//	man.read(); 
+	/* .read() is from Child class(Boy) therefore  it will give error
+	only the parent class method can be seen */
 	man.play();
 }
 

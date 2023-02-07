@@ -7,7 +7,7 @@ public class Boy extends Man {
 		System.out.println("Boy is reading");
 	}
 	
-	@Override
+	@Override      // child class overrides the method of parent class
 	public void play() {         
 		System.out.println("Boy plays..");
 	}
