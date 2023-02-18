@@ -48,6 +48,7 @@ public class TicTacToe {
 			int column2 = sc.nextInt();
 			character[row2][column2] = 'O';
 			System.out.println();
+//			if()
 			
 		}
 	}

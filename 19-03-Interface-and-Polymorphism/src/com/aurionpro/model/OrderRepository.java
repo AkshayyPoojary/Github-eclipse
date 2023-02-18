@@ -2,6 +2,8 @@ package com.aurionpro.model;
 
 public class OrderRepository implements IRepository {
 
+	// implementing properties from interface IRepository.java
+	
 	@Override
 	public void create() {
 		System.out.println("order create");

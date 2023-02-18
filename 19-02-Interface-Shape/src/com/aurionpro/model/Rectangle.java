@@ -1,6 +1,6 @@
 package com.aurionpro.model;
 
-public class Rectangle implements Shape {
+public class Rectangle implements Shape {   //this implements interface shape.java
 	public int height;
 	public double weight;
 	

@@ -1,6 +1,6 @@
 package com.aurionpro.model;
 
-public interface IRepository {
+public interface IRepository {   //interfacef
 
 	void create();
 	void read();
